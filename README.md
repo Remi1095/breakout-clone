@@ -1,6 +1,6 @@
 # Breakout clone in Bevy
 
-Small breakout clone made in Rust with Bevy.
+Small breakout clone made in Rust with Bevy. Features an overly convoluted brick generation system.
 
 Install rust then run
 ```bash
