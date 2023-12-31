@@ -1,0 +1,36 @@
+window_width: 1200
+window_height: 900
+window_fullscreen: false
+
+ball_diameter: 30.0
+ball_initial_speed: 50.0
+ball_speed: 500.0
+score_to_ball_speed_factor: 0.5
+ball_anti_gravity_time: 1.0
+ball_gravity_scale: 2.0
+ball_restitution: 0.75
+
+wall_thickness: 10.0
+area_width: 900.0
+area_height: 700.0
+
+brick_min_width: 30.0
+brick_max_width: 70.0
+brick_width_step: 10.0
+brick_margin: 3.0
+brick_bottom_margin_ratio: 0.3
+brick_top_margin_ratio: 0.20
+
+paddle_bottom_margin: 10.0
+paddle_width: 150.0
+paddle_height: 30.0
+paddle_mesh_segments: 32
+paddle_collider_segments: 5
+paddle_max_speed: 750.0
+paddle_acceleration: 6000.0
+
+brick_max_score: 10
+brick_min_score: 3
+score_loss_interval: 1.0
+score_loss: 1
+win_score_bonus: 500
