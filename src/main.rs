@@ -3,7 +3,6 @@ mod bricks;
 mod camera;
 mod debug;
 mod paddle;
-mod schedule;
 mod score;
 mod walls;
 
